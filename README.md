@@ -87,7 +87,7 @@ For general SDK usage information, see the
 ## Questions
 
 If you're having difficulties when you're using this SDK or have a question about the IBM Cloud services,
-ask a question at
+do ask it at
 [Stack Overflow](http://stackoverflow.com/questions/ask?tags=ibm-cloud).
 
 ## Issues
