@@ -70,7 +70,7 @@ Next, run `go build` or `go mod tidy` to download and install the new dependenci
 `go.mod` file.  
 
 In the previous example, the `securityandcompliancecenterapiv3` part of the import path is the package name that is
-associated with the Findings service.
+associated with the service.
 See the previous service table to find the appropriate package name for the services that you use in your application.
 
 ### `go get` command  
