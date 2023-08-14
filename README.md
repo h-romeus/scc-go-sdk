@@ -42,7 +42,7 @@ Go client library to interact with various
 
 ## Overview
 
-You can use the IBM Cloud Security and Compliance Center Go SDK to programmatically interact with the following IBM Cloud Security and Compliance Center.
+You can use the IBM Cloud Security and Compliance Center Go SDK to programmatically interact with IBM Cloud Security and Compliance Center.
 
 ## Prerequisites
 
